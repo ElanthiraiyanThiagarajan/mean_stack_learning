@@ -1,0 +1,58 @@
+.container {
+    margin-top: 50px;
+  }
+  
+  .filter {
+    margin-bottom: 20px;
+  }
+  
+  .products {
+    margin-bottom: 40px;
+  }
+  
+  .cart {
+    margin-top: 20px;
+  }
+  
+  .product-card {
+    margin-bottom: 20px;
+  }
+  
+  .product-card img {
+    max-height: 150px;
+  }
+  
+  .product-card .card-body {
+    padding: 10px;
+  }
+  
+  .cart-item {
+    margin-bottom: 10px;
+  }
+  
+  .cart-item .item-details {
+    display: inline-block;
+  }
+  
+  .cart-item .item-details .item-name {
+    font-weight: bold;
+  }
+  
+  .cart-item .item-details .item-price {
+    margin-left: 10px;
+  }
+  
+  .cart-item .item-quantity {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  .cart-item .item-actions {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  #cart-total {
+    font-weight: bold;
+  }
+  
